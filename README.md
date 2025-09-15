@@ -30,7 +30,8 @@ This project leverages a **Decision Tree classifier** enhanced with a **1D Gauss
 ## 🛠 Tech Stack
 - **Python 3**
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib
-- **Dataset:** [Kaggle Network Traffic Dataset]([https://www.kaggle.com/]) (benign + malicious flows)
+- **Dataset:** [Dataset: Kaggle Network Traffic Dataset](https://www.kaggle.com/datasets/agungpambudi/network-malware-detection-connection-analysis?select=CTU-IoT-Malware-Capture-42-1conn.log.labeled.csv)
+
 
 ---
 
